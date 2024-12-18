@@ -1,1 +1,5 @@
-# worms_grand_prix
+# Worms Grand Prix
+
+Una loca carrera de gusanos multijugador.
+
+TODO
